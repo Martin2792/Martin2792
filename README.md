@@ -29,6 +29,4 @@ Soy un programador con experiencia en el desarrollo de aplicaciones web y móvil
 
 📩 **Contacto:** [martin13-27@hotmail.com](mailto:martin13-27@hotmail.com)  
 
-📂 **Descargar mi CV:** [📄 Aquí](#)  
-
 ¡Vamos a crear algo increíble juntos! 🚀  
