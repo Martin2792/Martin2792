@@ -1,11 +1,11 @@
 # 👋 ¡Hola, soy Martín Martínez!
 
-🚀 **Desarrollador Full Stack** | **Freelance**  
-💻 Especialista en PHP, Python, JavaScript y tecnologías web  
-🎯 Apasionado por la optimización de sistemas y la experiencia de usuario  
+💻 **Desarrollador apasionado** | **Freelance**  
+🚀 Especializado en PHP, Python y tecnologías web  
+🎯 Optimización de sistemas y mejora de la experiencia de usuario  
 
 ## 📌 Sobre mí  
-Soy un programador con experiencia en el desarrollo de aplicaciones web y móviles, creando soluciones eficientes y escalables. Me encanta resolver problemas complejos, aprender nuevas tecnologías y colaborar en proyectos multidisciplinarios.  
+Soy un programador con experiencia en el desarrollo de aplicaciones web y móviles, enfocado en la creación de soluciones eficientes y escalables. Me encanta aprender nuevas tecnologías, resolver problemas complejos y trabajar en equipo.  
 
 ## 🛠️ Tecnologías & Herramientas  
 **Tecnologías:**  
@@ -22,13 +22,12 @@ Soy un programador con experiencia en el desarrollo de aplicaciones web y móvil
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
 ![SoapUI](https://img.shields.io/badge/-SoapUI-6DB33F?logo=soapui&logoColor=white)  
+![SourceTree](https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=white)  
 
 ## 🎯 Intereses  
-🎮 Videojuegos | 🎵 Música | 🎬 Películas | 🚗 Autos | 📸 Fotografía | 📚 Libros  
+🎮 Videojuegos | 🎵 Música | 🎬 Películas | 🚗 Autos | 📸 Fotografía | 📚 Libros | 🏖️ Playa | 🏋️‍♂️ Deporte  
 
 📩 **Contacto:** [martin13-27@hotmail.com](mailto:martin13-27@hotmail.com)  
-
-📌 **Ubicación:** Tocumen, Panamá  
 
 📂 **Descargar mi CV:** [📄 Aquí](#)  
 
